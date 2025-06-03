@@ -1,4 +1,4 @@
-# Ejercicios Variables.
+# Ejercicios Operadores.
 
 # 1. Realiza las siguientes operaciones aritméticas.
 # a. Suma: 15 + 25
